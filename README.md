@@ -107,7 +107,10 @@ chia init
 ```
 
 #### 开启服务
+TODO
 
 #### P盘
+TODO
 
 #### 校验P盘文件
+TODO
